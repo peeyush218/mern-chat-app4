@@ -87,8 +87,8 @@
         </analysisExceptions>
     </scanInfo>
     <projectInfo>
-        <name>sem_end #1</name>
-        <reportDate>2026-06-11T15:26:45.836169Z</reportDate>
+        <name>sem_end #2</name>
+        <reportDate>2026-06-11T15:56:20.477171500Z</reportDate>
         <credits>This product uses the NVD API but is not endorsed or certified by the NVD. This report contains data retrieved from the National Vulnerability Database: https://nvd.nist.gov, Github Advisory Database (via NPM Audit API): https://github.com/advisories/, and the RetireJS community.</credits>
     </projectInfo>
     <dependencies>
