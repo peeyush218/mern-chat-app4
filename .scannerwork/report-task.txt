@@ -1,0 +1,6 @@
+projectKey=mern-chat-app4
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=mern-chat-app4
+ceTaskId=7c58aeb0-9eab-4380-8c15-2d3fa7a2fcb4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7c58aeb0-9eab-4380-8c15-2d3fa7a2fcb4
